@@ -1,9 +1,6 @@
-% Script to make a basket shot from Rush Rhees library to the Interfaith
-% Chapel
-%% Kelly R Jean, 5/30/2019, version 1.0
+% Script to make a basket shot from Rush Rhees library to the Interfaith Chapel (on River Campus, University of Rochester)
 close all;clear all;clc
- 
- 
+
 % Set global variables
 global lumpedDragCoefficient vehicleMass initialFuelMass initialFuelBurnRate
 global expelledMatterVelocity burnTime gravity launchTheta massfuel
